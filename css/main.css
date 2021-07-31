@@ -60,7 +60,7 @@ nav .left a {
 
 .intro {
   padding-top: 120px;
-  background-image: url(/img/intro-bg.png);
+  background-image: url(../img/intro-bg.png);
   background-position: top 70px center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -242,21 +242,21 @@ nav .left a {
 }
 
 .healthcare-wrapper .healthcare-content ul .sledushi-1::after {
-  content: url(/img/old-1.png);
+  content: url(../img/old-1.png);
   position: absolute;
   margin-top: -500px;
   margin-left: 280px;
 }
 
 .healthcare-wrapper .healthcare-content ul .sledushi-2::after {
-  content: url(/img/old-2.png);
+  content: url(../img/old-2.png);
   position: absolute;
   margin-top: -280px;
   margin-left: 280px;
 }
 
 .healthcare-wrapper .healthcare-content ul .sledushi-3::after {
-  content: url(/img/old-3.png);
+  content: url(../img/old-3.png);
   position: absolute;
   margin-top: 60px;
   margin-left: -220px;
@@ -664,7 +664,7 @@ nav .left a {
 }
 
 .humans-realitatsiya {
-  background-image: url(/img/big-bg.png);
+  background-image: url(../img/big-bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 1400px;
